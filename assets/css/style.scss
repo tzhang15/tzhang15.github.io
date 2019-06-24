@@ -1,0 +1,111 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h2 {
+	margin-top: 0px;
+}
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
+
+header {
+  width: 160px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+  text-align: center;
+}
+
+footer {
+  width:100%;
+  text-align:center;
+  float: bottom;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.research-hd {
+  padding-bottom: 5px;
+  margin: 0px;
+}
+
+.research-tbl td {
+  padding: 0px 0px 0px 0px;
+}
+
+section {
+  width:76%;
+  max-width: 650;
+  float:right;
+  padding-bottom:50px;
+}
+
+.hnav {
+  display: none;
+  width:75%;
+  max-width: 650;
+  float:right;
+  padding-bottom: 20px;
+}
+
+.hnav table {
+	border-radius: 15px;
+	border: 1px solid #e5e5e5;
+	border-collapse: separate;
+	margin: 0px;
+}
+
+.hnav table tr td {
+   border-bottom: none;
+   border-right: 1px solid #e5e5e5;
+}
+
+.hnav table tr td:last-child {
+    border-right: none;
+}
+
+.vnav table {
+	border-radius: 15px;
+	border: 1px solid #e5e5e5;
+	border-collapse: separate;
+}
+
+.vnav table td {
+	text-align: center;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.vnav table tr:last-child td:last-child {
+    border-bottom: none;
+}
+
+@media print, screen and (max-width: 720px) {
+	header {
+	  display: none;
+	}
+
+	footer {
+	  display: none;
+	}
+
+	section {
+	  width:100%;
+	}
+
+	.hnav {
+	  display: inline;
+	  width: 100%;
+	}
+}
+
+header ul {
+  list-style:none;
+  padding:0;
+  background: #f4f4f4;
+}
