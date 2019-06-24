@@ -34,7 +34,7 @@ I graduated with a BA in chemistry from Cornell College in 2015. While at Cornel
 	<div style="font-size: 10pt;font-style: italic;">S. B. Berry*, <text style="font-weight: bold;">T. Zhang*</text>, J. H. Day, X. Su, I. Z. Wilson, E. Berthier, A. B. Theberge</div>
 </div>
 
-[...More about my research](./research.html).
+[...more about my research](./research.html)
 
 ## Misc
 
