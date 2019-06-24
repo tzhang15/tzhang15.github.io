@@ -32,13 +32,13 @@
       <header>
         <h3><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <img src="http://depts.washington.edu/bcmelab/wordpress/wp-content/uploads/2018/07/Tianzi-2018.gif" alt="Logo" />
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div style="padding-top: 25px">PhD Candidate
+        <br> @ UW Chemistry
+        </div>
 
-        <p><span class="glyphicon glyphicon-envelope" style="font-size: 9pt"></span> tzhang15@uw.edu</p>
+        <p><span class="glyphicon glyphicon-envelope" style="font-size: 9pt;padding-top: 25px"></span> tzhang15@uw.edu</p>
 
         <div class="vnav">
           <table style="width:100%">
@@ -53,9 +53,9 @@
       {{ content }}
       </section>
 
-      <footer>
+      <!-- <footer>
         <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

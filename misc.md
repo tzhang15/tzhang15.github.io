@@ -8,12 +8,4 @@ I’m an adventurer always willing to explore new things and visit different pla
 
 ## Photos
 
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
-<img src="https://vignette.wikia.nocookie.net/danganronpa/images/a/ab/Peko_Pekoyama_Illustration.png/revision/latest/scale-to-width-down/700?cb=20170907184747" width="200" height="200" />
+To be added...
