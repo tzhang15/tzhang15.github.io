@@ -38,4 +38,4 @@ I graduated with a BA in chemistry from Cornell College in 2015. While at Cornel
 
 ## Misc
 
-I’m an adventurer always willing to explore new things and visit different places. I enjoy learning French, aerial yoga, baking and wine tasting. I wish to learn everything about La Dégustation de Vin and La Pâtisserie. Check them out [here](./research.html)!
+I’m an adventurer always willing to explore new things and visit different places. I enjoy learning French, aerial yoga, baking and wine tasting. I wish to learn everything about La Dégustation de Vin and La Pâtisserie. Check them out [here](./misc.html)!
