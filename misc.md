@@ -11,11 +11,11 @@ I’m an adventurer always willing to explore new things and visit different pla
 I started baking when I was a junior in college. I always adjust the sugar level in my pasties to make them healthier but still tasty. I love to bake and share, if you also have a sweet tooth.
 
 <a href="fun-photos/Food_1.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_1.jpg" style="width: 150px"></a>
-<a href="fun-photos/Food_2.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_2.jpg" style="width: 150px"></a>
+<a href="fun-photos/Food_2_full.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_2.jpg" style="width: 150px"></a>
 <a href="fun-photos/Food_3.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_3.jpg" style="width: 150px"></a>
 <a href="fun-photos/Food_4.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_4.jpg" style="width: 150px"></a>
 <a href="fun-photos/Food_5.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_5.jpg" style="width: 150px"></a>
-<a href="fun-photos/Food_6.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_6.jpg" style="width: 150px"></a>
+<a href="fun-photos/Food_6_full.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_6.jpg" style="width: 150px"></a>
 <a href="fun-photos/Food_7.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_7.jpg" style="width: 150px"></a>
 <a href="fun-photos/Food_9.jpg" data-lightbox="Food"><img class="misc-photo" src="fun-photos/Food_9.jpg" style="width: 150px"></a>
 
@@ -38,7 +38,7 @@ Here are my fun moments at school!
 
 <a href="fun-photos/Cornell_1.jpg" data-lightbox="School"><img class="misc-photo" src="fun-photos/Cornell_1.jpg" style="width: 150px"></a>
 <a href="fun-photos/UW_1.jpg" data-lightbox="School"><img class="misc-photo" src="fun-photos/UW_1.jpg" style="width: 150px"></a>
-<a href="fun-photos/UW_2.jpg" data-lightbox="School"><img class="misc-photo" src="fun-photos/UW_2.jpg" style="width: 150px"></a>
+<a href="fun-photos/UW_2_full.jpg" data-lightbox="School"><img class="misc-photo" src="fun-photos/UW_2.jpg" style="width: 150px"></a>
 <a href="fun-photos/UW_3.jpg" data-lightbox="School"><img class="misc-photo" src="fun-photos/UW_3.jpg" style="width: 150px"></a>
 
 <h4>Misc</h4>
