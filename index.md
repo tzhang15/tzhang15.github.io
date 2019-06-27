@@ -43,7 +43,7 @@ I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/
 <div class="research-hd">
 	<text style="font-weight: bold;"><a href="https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2017">Upgrading well plates: Virtual multiculture devices on demand</a></text>
 	<div>(Gordon Research Conference on the Physics and Chemistry of Microfluidics, Lucca, Italy, June 4-9, 2017.)</div>
-	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
+	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text>, John Day, Ilham Wilson, Xiaojing Su, Loren C. Denlinger, Erwin Berthier, and Ashleigh B.Theberge</div>
 </div>
 
 [...more about my research](./research.html)
