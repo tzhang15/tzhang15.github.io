@@ -59,7 +59,7 @@ layout: default
 </div>
 <table style="width:100%" class="research-tbl">
   <tr>
-    <td width="200px" style="border: none"><img src="images/IEEE.tiff" width="200px"/></td>
+    <td width="200px" style="border: none"><img src="images/IEEE.jpg" width="200px"/></td>
     <td style="border: none">We studied cell signaling between primary human kidney peritubular microvascular endothelial cells  (HKMECs) and human kidney proximal tubule epithelial cells (HPTECs) using an open microfluidic coculture platform consisting of a center and a side culture chamber segregated by a half wall.</td> 
   </tr>
 </table>
