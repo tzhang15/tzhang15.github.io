@@ -35,14 +35,14 @@ I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/
 </div>
 
 <div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00878c#!divAbstract">Studying paracrine signaling between human kidney vascular endothelial and tubular epithelial cells using open microfluidic coculture</a></text>
-	<div>(IEEE EMBS Micro and Nanotechnology in Medicine Conference, Kauai, HI, Dec 10-14, 2018.)<a href="https://conferences.embs.org/mnm/">[link]</a></div>
+	<text style="font-weight: bold;"><a href="https://conferences.embs.org/mnm">Studying paracrine signaling between human kidney vascular endothelial and tubular epithelial cells using open microfluidic coculture</a></text>
+	<div>(IEEE EMBS Micro and Nanotechnology in Medicine Conference, Kauai, HI, Dec 10-14, 2018.)</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
 </div>
 
 <div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00878c#!divAbstract">Upgrading well plates: Virtual multiculture devices on demand</a></text>
-	<div>(Gordon Research Conference on the Physics and Chemistry of Microfluidics, Lucca, Italy, June 4-9, 2017.)<a href="https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2017/">[link]</a></div>
+	<text style="font-weight: bold;"><a href="https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2017">Upgrading well plates: Virtual multiculture devices on demand</a></text>
+	<div>(Gordon Research Conference on the Physics and Chemistry of Microfluidics, Lucca, Italy, June 4-9, 2017.)</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
 </div>
 
