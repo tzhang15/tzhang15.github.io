@@ -37,7 +37,7 @@ I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/
 <div class="research-hd">
 	<text style="font-weight: bold;"><a href="https://conferences.embs.org/mnm">Studying paracrine signaling between human kidney vascular endothelial and tubular epithelial cells using open microfluidic coculture</a></text>
 	<div>(IEEE EMBS Micro and Nanotechnology in Medicine Conference, Kauai, HI, Dec 10-14, 2018.)</div>
-	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
+	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text>, Daniel Lih, Ryan J. Nagao, Xiaojing Su, Erwin Berthier, Jonathan Himmelfarb, Ying Zheng , and Ashleigh B. Theberge</div>
 </div>
 
 <div class="research-hd">
@@ -45,7 +45,6 @@ I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/
 	<div>(Gordon Research Conference on the Physics and Chemistry of Microfluidics, Lucca, Italy, June 4-9, 2017.)</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
 </div>
-
 
 [...more about my research](./research.html)
 

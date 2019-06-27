@@ -51,3 +51,27 @@ layout: default
     <td style="border: none">Cellular communication between multiple cell types is a ubiquitous process that is responsible for vital physiological responses observed in vivo. We present a new open-microfluidic platform, which patterns biocompatible hydrogel walls via microfluidic spontaneous capillary flow (SCF) along a rail insert set inside commercially available cultureware. Our system creates customized pipette-accessible cell culture chambers that require fewer cells than standard macroscale culture.</td> 
   </tr>
 </table>
+
+<div class="research-hd">
+  <text style="font-weight: bold;"><a href="https://conferences.embs.org/mnm">Studying paracrine signaling between human kidney vascular endothelial and tubular epithelial cells using open microfluidic coculture</a></text>
+  <div>(IEEE EMBS Micro and Nanotechnology in Medicine Conference, Kauai, HI, Dec 10-14, 2018.)</div>
+  <div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text>, Daniel Lih, Ryan J. Nagao, Xiaojing Su, Erwin Berthier, Jonathan Himmelfarb, Ying Zheng , and Ashleigh B. Theberge</div>
+</div>
+<table style="width:100%" class="research-tbl">
+  <tr>
+    <td width="200px" style="border: none"><img src="images/IEEE.tiff" width="200px"/></td>
+    <td style="border: none">We studied cell signaling between primary human kidney peritubular microvascular endothelial cells  (HKMECs) and human kidney proximal tubule epithelial cells (HPTECs) using an open microfluidic coculture platform consisting of a center and a side culture chamber segregated by a half wall.</td> 
+  </tr>
+</table>
+
+<div class="research-hd">
+  <text style="font-weight: bold;"><a href="https://www.grc.org/physics-and-chemistry-of-microfluidics-conference/2017">Upgrading well plates: Virtual multiculture devices on demand</a></text>
+  <div>(Gordon Research Conference on the Physics and Chemistry of Microfluidics, Lucca, Italy, June 4-9, 2017.)</div>
+  <div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang</text></div>
+</div>
+<table style="width:100%" class="research-tbl">
+  <tr>
+    <td width="200px" style="border: none"><img src="images/page1image3010480.png" width="200px"/></td>
+    <td style="border: none">We utilize open microfluidics and the principle of spontaneous capillary flow (SCF) to develop a microscale hydrogel wall patterning technology that enables the study of intercellular signaling events within existing well plate culture platforms.</td> 
+  </tr>
+</table>
