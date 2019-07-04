@@ -11,6 +11,18 @@ I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/
 ## Research
 
 <div class="research-hd">
+	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating Fibroblast-induced Collagen Gel Contraction Using A Dynamic Microscale Platform</a></text>
+	<div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Oral</div>
+	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
+</div>
+
+<div class="research-hd">
+	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Open Microfluidic Coculture Facilitates Bidirectional Signaling Between Endothelial And Epithelial Cells</a></text>
+	<div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Poster</div>
+	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, D. Lih, Ryan J. Nagao, Jun Xue, Erwin Berthier, Jonathan Himmelfarb, Ying Zheng, Ashleigh B. Theberge</div>
+</div>
+
+<div class="research-hd">
 	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating fibroblast-induced collagen gel contraction using a dynamic microscale platform</a></text>
 	<div>(Submitted to Front. Bioeng. Biotechnol.)</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
