@@ -5,21 +5,27 @@ layout: default
 # Research
 
 <div class="research-hd">
-  <text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating Fibroblast-induced Collagen Gel Contraction Using A Dynamic Microscale Platform</a></text>
-  <div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Oral</div>
-  <div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
-</div>
-
-<div class="research-hd">
-  <text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Open Microfluidic Coculture Facilitates Bidirectional Signaling Between Endothelial And Epithelial Cells</a></text>
+  <text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/2020.02.14.949776v3">Open microfluidic coculture reveals paracrine signaling from human kidney epithelial cells promotes kidney specificity of endothelial cells</a></text>
   <div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Poster</div>
   <div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, D. Lih, Ryan J. Nagao, Jun Xue, Erwin Berthier, Jonathan Himmelfarb, Ying Zheng, Ashleigh B. Theberge</div>
 </div>
+<table style="width:100%" class="research-tbl">
+  <tr>
+    <td width="200px" style="border: none"><img src="images/33-Tianzi-Kidney2.png" width="200px"/></td>
+    <td style="border: none">We present an open microscale coculture device that provides spatial segregation for different cell types and supports paracrine signaling in the shared microenvironment.  Our findings suggest parenchymal cells have the capability to tune generic
+human cells in vitro. Our culture system is simple to use, and we have translated it to biological
+collaborators in other application areas who are able to operate the device in their own laboratories
+without assistance. </td> 
+  </tr>
+</table>
+
+
 
 <div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating fibroblast-induced collagen gel contraction using a dynamic microscale platform</a></text>
-	<div>(Submitted to Front. Bioeng. Biotechnol.)</div>
-	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
+  <text style="font-weight: bold;"><a href="https://www.frontiersin.org/articles/10.3389/fbioe.2019.00196/full">Investigating Fibroblast-induced Collagen Gel Contraction Using A Dynamic Microscale Platform</a></text>
+  <div> (Front. Bioeng. Biotechnol.)</div> 
+  <div> (MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Oral</div>
+  <div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
 </div>
 <table style="width:100%" class="research-tbl">
   <tr>
@@ -27,6 +33,13 @@ layout: default
     <td style="border: none">We developed a microscale CGC assay with an engineered well plate insert that uses surface tension forces to load and manipulate small volumes (14 µL) of cell-laden collagen. We established an eosinophil-fibroblast coculture model using the CGC device and showed that the platform sustained segregated coculture and paracrine signaling to recapitulate aspects of immune-fibroblast-ECM interactions.</td> 
   </tr>
 </table>
+<!-- 
+<div class="research-hd">
+	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating fibroblast-induced collagen gel contraction using a dynamic microscale platform</a></text>
+	<div>(Submitted to Front. Bioeng. Biotechnol.)</div>
+	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
+</div>
+ -->
 
 <div class="research-hd">
 	<text style="font-weight: bold;"><a href="https://www.nature.com/articles/s41598-018-29445-z">Discovery of glycocholic acid and taurochenodeoxycholic acid as phenotypic biomarkers in cholangiocarcinoma</a></text>

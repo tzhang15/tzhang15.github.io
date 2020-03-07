@@ -4,27 +4,22 @@ layout: default
 
 ## About
 
-I’m a 4th-year chemistry PhD student at University of Washington [Theberge lab](https://depts.washington.edu/bcmelab/). I’m working on developing microfluidic devices to understand cell signaling mechanisms underlying human diseases, such as chronic kidney disease (CKD) and pulmonary fibrosis in asthma.
+I’m a final year chemistry PhD student at University of Washington [Theberge lab](https://depts.washington.edu/bcmelab/). My research focuses on developing microfluidic devices to understand cell signaling mechanisms underlying human diseases, such as chronic kidney disease (CKD) and pulmonary fibrosis in asthma. At the same time, I'm also an <a href="https://foster.uw.edu/">UW Foster</a> entrepreneurship fellow working on commercializing biotechnology.
 
-I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/">Cornell College</a> in 2015. While at Cornell, my research focused on organic synthesis for solvatochromic dyes (solutes that change colors when dissolved in solvents with different polarities). I also interned at <a href="https://www.idtdna.com/pages">Integrated DNA Technologies</a> as a quality control scientist.
+I graduated with a BA in chemistry from <a href="https://www.cornellcollege.edu/">Cornell College</a> in 2015. While at Cornell, my research focused on organic synthesis for solvatochromic dyes (solutes that change colors when dissolved in solvents with different polarities). I have interned at <a href="https://www.idtdna.com/pages">Integrated DNA Technologies</a> as a quality control scientist in 2014, and interned at <a href="https://www.thoughtworks.com/">ThoughtWorks</a> as a business analyst in 2019. 
 
 ## Research
 
 <div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating Fibroblast-induced Collagen Gel Contraction Using A Dynamic Microscale Platform</a></text>
-	<div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Oral</div>
-	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
-</div>
-
-<div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Open Microfluidic Coculture Facilitates Bidirectional Signaling Between Endothelial And Epithelial Cells</a></text>
+	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/2020.02.14.949776v3">Open microfluidic coculture reveals paracrine signaling from human kidney epithelial cells promotes kidney specificity of endothelial cells</a></text>
 	<div>(MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Poster</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, D. Lih, Ryan J. Nagao, Jun Xue, Erwin Berthier, Jonathan Himmelfarb, Ying Zheng, Ashleigh B. Theberge</div>
 </div>
 
 <div class="research-hd">
-	<text style="font-weight: bold;"><a href="https://www.biorxiv.org/content/10.1101/628230v1">Investigating fibroblast-induced collagen gel contraction using a dynamic microscale platform</a></text>
-	<div>(Submitted to Front. Bioeng. Biotechnol.)</div>
+	<text style="font-weight: bold;"><a href="https://www.frontiersin.org/articles/10.3389/fbioe.2019.00196/full">Investigating Fibroblast-induced Collagen Gel Contraction Using A Dynamic Microscale Platform</a></text>
+	<div> (Front. Bioeng. Biotechnol.)</div> 
+	<div> (MicroTAS 2019, Basel, Switzerland, 27-31 October, 2019) Oral</div>
 	<div style="font-size: 10pt;font-style: italic;"><text style="font-weight: bold;">T. Zhang*</text>, J. H. Day*, X. Su, A. G. Guadarrama, N. K. Sandbo, S. Esnault, L. C. Denlinger, E. Berthier, A. B. Theberge</div>
 </div>
 
