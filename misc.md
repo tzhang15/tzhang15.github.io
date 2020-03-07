@@ -22,8 +22,10 @@ I started baking when I was a junior in college. I always adjust the sugar level
 <h4>Aerial Silks</h4>
 I just started several month ago, but have already gained a lot of arm muscles. I’m working on my flexibility now -- hope I can do a perfect split soon!
 
-<a href="fun-photos/Aerial_1.jpg" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_1.jpg" style="width: 150px"></a>
-<a href="fun-photos/Aerial_2.jpg" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_2.jpg" style="width: 150px"></a>
+<a href="fun-photos/Aerial_1.jpg" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_1.jpg" style="height: 150px"></a>
+<a href="fun-photos/Aerial_2.jpg" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_2.jpg" style="height: 150px"></a>
+<a href="fun-photos/Aerial_3.gif" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_3.gif" style="height: 150px"></a>
+<a href="fun-photos/Aerial_4.gif" data-lightbox="Aerial"><img class="misc-photo" src="fun-photos/Aerial_4.gif" style="height: 150px"></a>
 
 <h4>Wine Tastings</h4>
 I tasted over 50 different kinds of wine and spirits in three consecutive days! I passed [WSET Level 2 in Wines and Spirits](https://www.wsetglobal.com/qualifications/wset-level-2-award-in-wines-and-spirits/). Just ask me if you don’t know which wine to buy!
